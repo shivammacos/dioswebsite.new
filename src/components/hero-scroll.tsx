@@ -22,8 +22,8 @@ export default function HeroScroll() {
         <hr className="my-[2vw] border-none border-t border-white/40" />
         <div className="flex flex-wrap items-end justify-between gap-6">
           <p className="max-w-[50ch] text-[clamp(1rem,2.5vw,2rem)] font-normal leading-relaxed">
-            A next-generation trading terminal. Deep liquidity, real-time pricing, and
-            institutional-grade tools — built for the modern trader.
+            Where institutional precision meets modern speed. DIOS gives every trader
+            the edge that was once reserved for the few.
           </p>
           <div className="flex gap-3">
             <a
